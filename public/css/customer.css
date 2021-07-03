@@ -1,0 +1,54 @@
+.heder_checkout {
+    text-align: center;
+    padding: 0 10px;
+    background-color: #f1592a;
+    font-size: 35px;
+}
+.logo-checkout {
+    float: left;
+
+}
+img {
+    vertical-align: middle;
+}
+img {
+    border: 0;
+}
+.header h1 {
+    color: #fff;
+}
+.font-24 {
+    font-size: 24px !important;
+}
+.display-inline-block{
+    display: inline-block;
+}
+
+h3{
+    font-size: 1.2rem;
+}
+#ticket-qty{
+    width: 185px;
+    padding-top:32px;
+}
+#popup-book-ticket{
+    margin-top: 30px;
+    width: 33.7rem;
+    height: 4rem;
+    background-color: #f1592a;
+}
+.table-bordered{
+    margin-top: 30px;
+}
+.ticket-quantity{
+    width: 155px;
+}
+.cursor_hover{
+    width: 24px;
+    text-align: center;
+    margin-top: 20px;
+}
+.ticket-quantity{
+    text-align: center;
+    width: 100px;
+}
